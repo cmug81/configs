@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/a4heinon/git/MrGru/puppet/Modules/production/modules/apt/manifests/debian'
+let g:netrw_dirhist_2='/Users/a4heinon/git/MrGru/puppet/Modules/production/modules/telnet'
+let g:netrw_dirhist_3='/Users/a4heinon/git/MrGru/puppet/Modules/production/modules/telnet/manifests'
+let g:netrw_dirhist_4='/Users/a4heinon/git/MrGru/puppet/Modules/production/modules/mayflower/manifests'
+let g:netrw_dirhist_5='/Users/a4heinon/git/MrGru/puppet/Modules/production/modules/vmwaretools/manifests'
+let g:netrw_dirhist_6='/Users/a4heinon/git/MrGru/puppet/Modules/production/modules/ci_windows/manifests'
