@@ -1,0 +1,38 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+brew "aria2"
+brew "python"
+brew "awscli"
+brew "ffmpeg"
+brew "git"
+brew "jq"
+brew "jsonlint"
+brew "mas"
+brew "pyenv-virtualenv"
+brew "telnet"
+brew "wget"
+brew "youtube-dl"
+brew "zsh"
+brew "zsh-autosuggestions"
+brew "zsh-syntax-highlighting"
+
+
+cask "spectacle"
+cask "atom"
+cask "firefox"
+cask "apache-directory-studio"
+cask "limechat"
+cask "skype"
+cask "slack"
+cask "iterm2"
+
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Spark", id: 1176895641
+mas "Xcode", id: 497799835
